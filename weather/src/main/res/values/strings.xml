@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="max_tmp"></string>
+    <string name="min_max_tmp"></string>
+    <string name="air_quality"></string>
+    <string name="wind_power"></string>
+    <string name="state"></string>
+    <string name="error_network">数据不见了，重试看看</string>
+    <string name="retry">重试</string>
+</resources>
